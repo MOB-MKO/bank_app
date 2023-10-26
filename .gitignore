@@ -1,0 +1,4 @@
+Vagrantfile
+.vagrant/
+www/phpmyadmin
+www/bank_app/includes
